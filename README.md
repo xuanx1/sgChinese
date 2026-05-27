@@ -1,8 +1,13 @@
 # [Singapore Chinese Historical Network](https://xuanx1.github.io/sgChinese/)
 
-An [visualisation](https://xuanx1.github.io/sgChinese/) of **784 figures** and **1,200+ relationships** drawn from the **Singapore Biographical Database (SBDB)** at NUS and the *新华历史人物列传* chronicles published by the National Library Board. Coloured by dialect group (Hokkien · Teochew · Canton · Hakka · Sam Kiang · Hainan), sized by number of ties, clicking a node  opens a biography card on the right panel
+An [visualisation](https://xuanx1.github.io/sgChinese/) of **784 figures** and **1,200+ relationships** drawn from the **Singapore Biographical Database (SBDB)** at NUS and the *新华历史人物列传* chronicles published by the National Library Board. Coloured by dialect group (Hokkien · Teochew · Canton · Hakka · Sam Kiang · Hainan), sized by number of ties, clicking a node  opens a biography card on the right panel.
+
+<img width="1920" height="916" alt="Screenshot 2026-05-28 000201" src="https://github.com/user-attachments/assets/eae70e65-ff18-4461-8a3c-613b70ddda23" />
 
 [Straits Times Variant](https://xuanx1.github.io/sgChinese/index-st.html)
+![Uploading screencapture-xuanx1-github-io-sgChinese-index-st-html-2026-05-28-00_05_06.png…]()
+
+
 
 **Biography rail** for each figure:
 - Real photo (23 figures — Wikimedia thumbnails downloaded locally to `assets/photos/`) or a generated **name-seal portrait** otherwise
