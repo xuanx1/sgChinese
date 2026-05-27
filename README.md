@@ -2,6 +2,8 @@
 
 An [visualisation](https://xuanx1.github.io/sgChinese/) of **784 figures** and **1,200+ relationships** drawn from the **Singapore Biographical Database (SBDB)** at NUS and the *新华历史人物列传* chronicles published by the National Library Board. Coloured by dialect group (Hokkien · Teochew · Canton · Hakka · Sam Kiang · Hainan), sized by number of ties, clicking a node  opens a biography card on the right panel
 
+[Straits Times Variant](https://xuanx1.github.io/sgChinese/index-st.html)
+
 **Biography rail** for each figure:
 - Real photo (23 figures — Wikimedia thumbnails downloaded locally to `assets/photos/`) or a generated **name-seal portrait** otherwise
 - Dialect, tie count, and an **inline ancestral-home / birthplace map** with a ROC ↔ PRC toggle (see "Maps" below). The map's caption combines province + place into a single "Ancestral home" line and shows the "Birthplace" beneath when the figure was born away from their ancestral home. When both points exist, the projection auto-fits both so the diaspora arc is always visible.
