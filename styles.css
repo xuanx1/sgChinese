@@ -803,12 +803,19 @@ body::before {
 }
 .world-mode-note {
   padding: 12px 14px 14px;
-  font: italic 12.5px/1.55 var(--font-serif);
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 12.5px;
+  line-height: 1.55;
   color: var(--ink-soft);
   max-height: 280px;
   overflow-y: auto;
 }
-.world-mode-note b {
+/* Heading label — the standalone <b> directly inside .world-mode-note that
+   names the regime (e.g. "ROC, 1911 · 中華民國"). Styled as a small caps
+   eyebrow, set on its own line. */
+.world-mode-note > b {
+  display: block;
   font-style: normal;
   font-family: var(--font-ui);
   font-weight: 600;
@@ -816,20 +823,27 @@ body::before {
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--accent);
-  margin-right: 4px;
+  margin: 0 0 2px;
 }
 .world-mode-note p {
-  margin: 8px 0 0 0;
+  margin: 6px 0 0;
+  font-family: inherit;
+  font-style: inherit;
   font-size: 12.5px;
+  line-height: 1.55;
   color: var(--ink-soft);
 }
+/* Inline emphasis inside the description paragraph — must blend with the
+   surrounding italic serif body, not look like a sans-serif eyebrow. */
 .world-mode-note p b {
-  display: inline;
-  font-size: 12.5px;
+  font-family: inherit;
+  font-style: inherit;
+  font-weight: 700;
+  font-size: inherit;
   letter-spacing: 0;
   text-transform: none;
   color: var(--ink);
-  margin-right: 0;
+  margin: 0;
 }
 .world-modal .home-dots circle { transition: r .12s; }
 .world-modal .home-dots g:hover circle:first-child { r: 18; }
