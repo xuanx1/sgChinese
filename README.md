@@ -5,6 +5,7 @@ An [visualisation](https://xuanx1.github.io/sgChinese/) of **784 figures** and *
 <img width="1920" height="916" alt="Screenshot 2026-05-28 000201" src="https://github.com/user-attachments/assets/eae70e65-ff18-4461-8a3c-613b70ddda23" />
 
 [Straits Times Variant](https://xuanx1.github.io/sgChinese/index-st.html)
+
 <img width="1920" height="4521" alt="screencapture-xuanx1-github-io-sgChinese-index-st-html-2026-05-28-00_05_06" src="https://github.com/user-attachments/assets/150a4034-0fbe-45f0-9889-3ee07b747ba2" />
 
 **Biography rail** for each figure:
