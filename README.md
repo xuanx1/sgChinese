@@ -1,6 +1,6 @@
-# Singapore Chinese Historical Network
+# [Singapore Chinese Historical Network](https://xuanx1.github.io/sgChinese/)
 
-An visualisation of **784 figures** and **1,200+ relationships** drawn from the **Singapore Biographical Database (SBDB)** at NUS and the *新华历史人物列传* chronicles published by the National Library Board. Coloured by dialect group (Hokkien · Teochew · Canton · Hakka · Sam Kiang · Hainan), sized by number of ties, clicking a node  opens a biography card on the right panel
+An [visualisation](https://xuanx1.github.io/sgChinese/) of **784 figures** and **1,200+ relationships** drawn from the **Singapore Biographical Database (SBDB)** at NUS and the *新华历史人物列传* chronicles published by the National Library Board. Coloured by dialect group (Hokkien · Teochew · Canton · Hakka · Sam Kiang · Hainan), sized by number of ties, clicking a node  opens a biography card on the right panel
 
 **Biography rail** for each figure:
 - Real photo (23 figures — Wikimedia thumbnails downloaded locally to `assets/photos/`) or a generated **name-seal portrait** otherwise
